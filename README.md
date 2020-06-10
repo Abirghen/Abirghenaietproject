@@ -1,8 +1,8 @@
-## Developer Portfolio Landing Page Template
+## E- Portfolio Landing Page Template
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Use this template if you need a quick Tech E- portfolio! Based on a Minimal Jekyll theme for GitHub Pages to help you present your work during the COVID19
 
 <img src="images/demo.gif?raw=true"/>
 
